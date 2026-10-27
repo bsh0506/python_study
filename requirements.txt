@@ -1,3 +1,5 @@
+# 项目直接依赖
 openai>=3.24.0
 python-dotenv>=1.2.4
 ollama>=0.6.3
+gradio>=6.30.0
